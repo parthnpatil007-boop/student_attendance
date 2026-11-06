@@ -2,5 +2,7 @@
   "name": "Student Attendance System",
   "description": "Digital Student Attendance System developed by Parth Nitin Patil (Roll No. 42, SEBIT, PRN: U262E001) featuring rapid roster attendance marking, persistent CSV storage, and academic analytics.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
