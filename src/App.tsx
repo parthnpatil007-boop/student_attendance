@@ -25,7 +25,7 @@ import {
   Info,
 } from 'lucide-react';
 
-const LOGO_SRC = '/src/assets/images/attendance_system_logo_1793976879101.jpg';
+const LOGO_SRC = '/src/assets/images/logo.jpeg';
 
 export default function App() {
   const [records, setRecords] = useState<AttendanceRecord[]>(() => loadRecordsFromStorage());
